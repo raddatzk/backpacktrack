@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>962193874409-fl7uh2aehua8ab8csamnpcga9tpjsrfp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.962193874409-fl7uh2aehua8ab8csamnpcga9tpjsrfp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPxtEKEpKeVjVj7EuUmL9-4XjhKHvl_js</string>
+	<key>GCM_SENDER_ID</key>
+	<string>962193874409</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>me.raddatz.backpackcheck</string>
+	<key>PROJECT_ID</key>
+	<string>backpackcheck-6917a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>backpackcheck-6917a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:962193874409:ios:3321b02c3b04c0bdaf3f78</string>
+	<key>DATABASE_URL</key>
+	<string>https://backpackcheck-6917a-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962193874409",
+    "firebase_url": "https://backpackcheck-6917a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "backpackcheck-6917a",
+    "storage_bucket": "backpackcheck-6917a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962193874409:android:899b6ee8e9a83bcfaf3f78",
+        "android_client_info": {
+          "package_name": "me.raddatz.backpackcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962193874409-152vgibudurc0k5dhtletl5jkf7gfd99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvL8dFkgECwmtntQd4s8dtRhW8t36fmgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962193874409-152vgibudurc0k5dhtletl5jkf7gfd99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

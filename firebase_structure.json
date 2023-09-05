@@ -1,0 +1,106 @@
+{
+  "users": {
+    "83a55566-9f1b-4f61-aafa-a8c5957d4b4b": {
+      "id": "83a55566-9f1b-4f61-aafa-a8c5957d4b4b",
+      "name": "Kevin",
+      "deviceIds": [
+        "800db2bd-27bc-421f-b359-160b28100a56",
+        "5e731e77-4fd0-4ae1-98bb-c40eeda0feef"
+      ]
+    },
+    "2f38f3c8-e3ec-42b3-9046-23c0bb4889aa": {
+      "id": "2f38f3c8-e3ec-42b3-9046-23c0bb4889aa",
+      "name": "Fabienne",
+      "deviceIds": [
+        "cfbfffd1-02d3-4522-9841-378117c50dc1"
+      ]
+    }
+  },
+  "storages": {
+    "83a55566-9f1b-4f61-aafa-a8c5957d4b4b": {
+      "id": "c2b90096-e228-4add-8e90-ca30469606bc",
+      "items": {
+        "a689735c-027e-47b4-a017-7f871bd3315f": {
+          "id": "a689735c-027e-47b4-a017-7f871bd3315f",
+          "name": "Kletterschuhe Scarpa",
+          "amount": 1,
+          "category": "48a89234-d140-41f7-89ca-ad43eea105bb",
+          "visitors": [
+            "2f38f3c8-e3ec-42b3-9046-23c0bb4889aa"
+          ]
+        },
+        "fcd8da09-7790-4e0e-ad38-c41917b73396": {
+          "id": "fcd8da09-7790-4e0e-ad38-c41917b73396",
+          "name": "Wäscheleine",
+          "amount": 2,
+          "category": "e294f984-d85f-42e3-9f10-ac7be4d09b2f",
+          "visitors": [
+            "2f38f3c8-e3ec-42b3-9046-23c0bb4889aa"
+          ]
+        }
+      },
+      "categories": {
+        "48a89234-d140-41f7-89ca-ad43eea105bb": {
+          "id": "48a89234-d140-41f7-89ca-ad43eea105bb",
+          "name": "Klettern",
+          "visitors": [
+            "2f38f3c8-e3ec-42b3-9046-23c0bb4889aa"
+          ],
+          "icon": "abc"
+        },
+        "e294f984-d85f-42e3-9f10-ac7be4d09b2f": {
+          "id": "e294f984-d85f-42e3-9f10-ac7be4d09b2f",
+          "name": "Tools",
+          "visitors": [
+            "2f38f3c8-e3ec-42b3-9046-23c0bb4889aa"
+          ],
+          "icon": "abc"
+        }
+      },
+      "visitors": [
+        "2f38f3c8-e3ec-42b3-9046-23c0bb4889aa"
+      ]
+    }
+  },
+  "projects": {
+    "83a55566-9f1b-4f61-aafa-a8c5957d4b4b": {
+      "d0341dc7-97e9-44db-b774-0db3256709c0": {
+        "id": "d0341dc7-97e9-44db-b774-0db3256709c0",
+        "routeName": "mallorca2023",
+        "name": "Mallorca 2023",
+        "items": {
+          "61a7d424-2dd3-46ae-8497-883d387c5d32": {
+            "id": "61a7d424-2dd3-46ae-8497-883d387c5d32",
+            "amount": 1,
+            "checked": true,
+            "luggage": {
+              "38f5d36b-5f5e-45d4-9f6c-0e9629c152af": 1
+            }
+          },
+          "fcd8da09-7790-4e0e-ad38-c41917b73396": {
+            "id": "fcd8da09-7790-4e0e-ad38-c41917b73396",
+            "amount": 2,
+            "checked": false,
+            "luggage": {
+              "85246751-3e8a-4b9e-ac63-897ad2e3da15": 1,
+              "38f5d36b-5f5e-45d4-9f6c-0e9629c152af": 1
+            }
+          }
+        },
+        "visitors": {
+          "2f38f3c8-e3ec-42b3-9046-23c0bb4889aa": 1
+        },
+        "luggage": [
+          {
+            "id": "38f5d36b-5f5e-45d4-9f6c-0e9629c152af",
+            "name": "großer Koffer"
+          },
+          {
+            "id": "85246751-3e8a-4b9e-ac63-897ad2e3da15",
+            "name": "Handgepäck"
+          }
+        ]
+      }
+    }
+  }
+}
